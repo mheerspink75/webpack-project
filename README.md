@@ -2,7 +2,7 @@
 ---
 Project page: https://mheerspink75.github.io/GIPHY-API-Search---Webpack-Bundle/
 ```
-npm i webpack webpack-cli webpack-dev-server --save-dev
+npm i webpack webpack-cli --save-dev
 
 npm install imports-loader exports-loader autoprefixer css-loader node-sass postcss-loader sass-loader style-loader --save-dev
 
