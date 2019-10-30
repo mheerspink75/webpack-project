@@ -2,7 +2,7 @@
 ---
 Project page: https://mheerspink75.github.io/GIPHY-API-Search---Webpack-Bundle/
 ```
-npm i webpack webpack-cli --save-dev
+npm i webpack webpack-cli webpack-dev-server --save-dev
 
 npm install bootstrap jquery popper.js --save
 
