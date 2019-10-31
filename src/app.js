@@ -6,5 +6,3 @@ import './scss/app.scss';
 
 // npm install imports-loader
 import "./giphy_search.js";
-
-var $ = require("jquery");
