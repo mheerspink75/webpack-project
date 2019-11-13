@@ -13,10 +13,3 @@ npm install lite-server --save-dev
 
 npm install gh-pages
 ```
-
-
-Webpack Bootstrap Tutorial: https://stevenwestmoreland.com/2018/01/how-to-include-bootstrap-in-your-project-with-webpack.html
-
-Import jQuery: https://webpack.js.org/loaders/imports-loader/#jquery-plugins
-
-
