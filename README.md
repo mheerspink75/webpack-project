@@ -1,6 +1,7 @@
 # Giphy API Search - Webpack bundle
 ---
 Project page: https://mheerspink75.github.io/GIPHY-API-Search---Webpack-Bundle/
+Repl: https://repl.it/@MattHeerspink/GIPHY-API-Search-Webpack-Bundle
 ```
 npm i webpack webpack-cli --save-dev
 
