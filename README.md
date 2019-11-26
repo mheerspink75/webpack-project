@@ -5,6 +5,11 @@ Project page: https://mheerspink75.github.io/GIPHY-API-Search---Webpack-Bundle/
 Repl: https://repl.it/@MattHeerspink/GIPHY-API-Search-Webpack-Bundle
 
 
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/d116e3ed-ce0b-4441-9384-b660d2943612)
+
+
+
 ```
 npm i webpack webpack-cli --save-dev
 
