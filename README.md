@@ -16,4 +16,8 @@ npm install bootstrap jquery popper.js --save
 npm install lite-server --save-dev
 
 npm install gh-pages
+
+npm start
+
+npm run lite
 ```
