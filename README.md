@@ -6,7 +6,8 @@ Repl: https://repl.it/@MattHeerspink/GIPHY-API-Search-Webpack-Bundle
 
 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/4fc21307-e75b-4c10-9baa-d48d5b7b970c)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/f0086d37-6695-412d-aecf-0866078150f1)
+
 
 
 
