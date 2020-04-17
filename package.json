@@ -10,8 +10,7 @@
     "start": "npm run lite",
     "lite": "lite-server"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Matt Heerspink",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^9.7.6",
